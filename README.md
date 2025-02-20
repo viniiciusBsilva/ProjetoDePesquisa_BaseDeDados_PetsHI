@@ -13,6 +13,9 @@ de classificação, distinguindo entre neoplasia e tecido mamário normal.
 
 ![Modelo VGG16](https://media.geeksforgeeks.org/wp-content/uploads/20200219152327/conv-layers-vgg16-1024x450.jpg)
 
+# Dataset
+
+Dataset Publicado em: https://zenodo.org/records/8322517
 
 # Tecnologias utilizadas
 - Python
