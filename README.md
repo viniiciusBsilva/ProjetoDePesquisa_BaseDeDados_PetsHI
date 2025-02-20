@@ -27,5 +27,3 @@ de classificação, distinguindo entre neoplasia e tecido mamário normal.
 # Autor
 
 Vinícius Barbosa da Silva
-
-https://www.linkedin.com/in/vinicius-barbosa-6b2797226/
